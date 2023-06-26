@@ -53,7 +53,6 @@
                         <td><input type="number" name="val" id="t1"></td>
                     </tr>
                     <tr>
-                        <td colspan="2"><center><input type="reset" value="Reset"></center></td>
                         <td colspan="2"><button onclick="display()">Submit</button></td>
                     </tr>
 				<tr>
